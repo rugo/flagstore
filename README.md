@@ -6,8 +6,8 @@ This is a simple Flask application that verifies RSA signed messages using a pub
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/rugo/flagstore
+    cd flagstore
     ```
 
 2. Install the required Python libraries:
