@@ -11,6 +11,7 @@ except ImportError:
 
 app = Flask(__name__)
 
+# Pubkey (can be exchanged if desired)
 public_key_pem = open("pubkey.pem").read()
 
 # Load the public key
